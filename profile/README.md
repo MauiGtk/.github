@@ -26,6 +26,7 @@ version](https://github.com/Thomas-Mielke-Software/maui)
 
 - [CI/CD](https://github.com/lytico/maui/blob/6ef7f0c066808ea0d4142812ef4d956245e6a711/.github/workflows/build-gtk.yml#L22-L31)
 - [GtkSharp Quick Reference](https://ksvi.mff.cuni.cz/~dingle/2021-2/prog_2/gtk_reference.html)
+- [gir.core](https://github.com/gircore/gir.core)
 
 ### Community 🧑‍🤝‍🧑
 
