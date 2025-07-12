@@ -20,6 +20,7 @@ version](https://github.com/Thomas-Mielke-Software/maui)
 - [maui-docker](https://github.com/Thomas-Mielke-Software/maui-docker)
   - [maui-devcontainer](https://github.com/Thomas-Mielke-Software/maui-devcontainer) (WIP)
   - [maui-podman](https://github.com/Lemon73-Computing/maui-podman)
+- [Gtk Workload](https://github.com/HavenDV/Gtk)
 
 ### Useful Resources 📄
 
