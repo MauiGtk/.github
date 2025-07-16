@@ -1,6 +1,10 @@
 ## MauiGtk Community 🐧🏝️
 
-We are the **GtkMaui Community**, a group dedicated to making .NET MAUI work on Gtk ✨
+We are the **GtkMaui Community**, a group dedicated to making .NET MAUI work on Gtk.
+We think that a GitHub org is the logical next step to make it possible to sustainably support this platform.
+Everyone who wants to contribute is welcome: Here is the place to gather individuals who submitted pull request for maui on Gtk and related repos in the past -- and those who are eagerly trying to become capable to do so. And maybe it will evolve to a point where we can make strategic decisions, e.g. on how to keep the platform open towards Gtk4 and future versions of Gtk.
+
+It all started with **Mono Touch** that emerged as part of the open source alternative to .NET -- let's bring it home to **the** open sourch operating system, where it belongs. ✨
 
 ### Main Projects 💻
 
