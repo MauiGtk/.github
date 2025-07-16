@@ -1,7 +1,5 @@
 ## MauiGtk Community 🐧🏝️
 
-Hello everyone!
-
 We are the **GtkMaui Community**, a group dedicated to making .NET MAUI work on Gtk ✨
 
 ### Main Projects 💻
@@ -17,7 +15,7 @@ version](https://github.com/Thomas-Mielke-Software/maui)
 
 ### Dev Container 📦
 
-- [maui-docker](https://github.com/Thomas-Mielke-Software/maui-docker)
+- [maui-docker](https://github.com/MauiGtk/maui-docker)
   - [maui-devcontainer](https://github.com/Thomas-Mielke-Software/maui-devcontainer) (WIP)
   - [maui-podman](https://github.com/Lemon73-Computing/maui-podman)
 - [Gtk Workload](https://github.com/HavenDV/Gtk)
