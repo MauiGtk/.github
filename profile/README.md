@@ -35,3 +35,7 @@ version](https://github.com/Thomas-Mielke-Software/maui)
 - [GitHub](https://github.com/MauiGtk) (here)
 - [Matrix](https://matrix.to/#/#maui-linux:matrix.org) (WebChat)
 - [Gtk Forms Progress](https://github.com/jsuarezruiz/forms-gtk-progress/issues) (?)
+
+### What's Brewing Currently
+
+We are trying to organize a little videoconference mid October to get to know each other better.
