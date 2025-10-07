@@ -8,13 +8,11 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 
 ### Main Projects 💻
 
-- [@jsuarezruiz version](https://github.com/jsuarezruiz/maui-linux)
-  - [@MauiGtk version](https://github.com/MauiGtk/maui-linux) (Former [@Lemon73-Computing](https://github.com/Lemon73-Computing) version)
-  - [@thomiel
-version](https://github.com/Thomas-Mielke-Software/maui-linux)
+- [@MauiGtk version](https://github.com/jsuarezruiz/maui-linux) (Former [@jsuarezruiz](https://github.com/jsuarezruiz) version)
+  - ~~[@Lemon73-Computing version](https://github.com/Lemon73-Computing/maui-linux)~~
+  - ~~[@thomiel version](https://github.com/Thomas-Mielke-Software/maui-linux)~~
 - [@lytico version](https://github.com/lytico/maui)
-  - [@thomiel
-version](https://github.com/Thomas-Mielke-Software/maui)
+  - ~~[@thomiel version](https://github.com/Thomas-Mielke-Software/maui)~~
 - [Mali](https://github.com/nblockchain/Mali)
 
 ### Dev Container 📦
