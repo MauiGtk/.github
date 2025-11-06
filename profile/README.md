@@ -32,4 +32,4 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 
 ### What's Brewing Currently
 
-We are trying to organize a little videoconference mid October to get to know each other better.
+We organized a little videoconference mid October to get to know each other better and will meet again mid November to discuss possible funding options.
