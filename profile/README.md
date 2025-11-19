@@ -33,4 +33,4 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 
 ### What's Brewing Currently
 
-We organized a little videoconference mid October to get to know each other better and will meet again mid November to discuss possible funding options.
+We had our 2nd video call on 19th of November where we focused on a first public funding attempt. Will meet again in January.
