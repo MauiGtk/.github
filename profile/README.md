@@ -28,7 +28,8 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 
 - [GitHub](https://github.com/MauiGtk) (here)
 - [Matrix](https://matrix.to/#/#maui-linux:matrix.org) (WebChat)
-- [Website](https://maui-linux.net/) (Wiki, Blog)
+- [Official MauiGtk Website](https://mauigtk.net) (under construction!)
+- [alternative Wordpress Website by TenEniunlsl](https://maui-linux.net/) (Wiki, Blog)
 - [Gtk Forms Progress](https://github.com/jsuarezruiz/forms-gtk-progress/issues) (?)
 
 ### What's Brewing Currently
