@@ -11,6 +11,7 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 - [@MauiGtk version](https://github.com/MauiGtk/maui-linux): Main repository (Former [@jsuarezruiz](https://github.com/jsuarezruiz) version)
 - [@lytico version](https://github.com/lytico/maui): Reference
 - [Mali](https://github.com/nblockchain/Mali): Reference (.NET6)
+
 ### Dev Container 📦
 
 - [maui-docker](https://github.com/MauiGtk/maui-docker)
@@ -23,14 +24,14 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 - [CI/CD](https://github.com/lytico/maui/blob/6ef7f0c066808ea0d4142812ef4d956245e6a711/.github/workflows/build-gtk.yml#L22-L31)
 - [GtkSharp Quick Reference](https://ksvi.mff.cuni.cz/~dingle/2021-2/prog_2/gtk_reference.html)
 - [gir.core](https://github.com/gircore/gir.core)
+- [Gtk Forms Progress](https://github.com/jsuarezruiz/forms-gtk-progress/issues) (?)
 
 ### Community 🧑‍🤝‍🧑
 
 - [GitHub](https://github.com/MauiGtk) (here)
 - [Matrix](https://matrix.to/#/#maui-linux:matrix.org) (WebChat)
 - [Official MauiGtk Website](https://mauigtk.net) (under construction!)
-- [alternative Wordpress Website by TenEniunlsl](https://maui-linux.net/) (Wiki, Blog)
-- [Gtk Forms Progress](https://github.com/jsuarezruiz/forms-gtk-progress/issues) (?)
+- [alternative Wordpress Website](https://maui-linux.net/) by [@Ten](https://github.com/TenEniunlsl) (Wiki, Blog)
 
 ### What's Brewing Currently
 
