@@ -30,8 +30,12 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 
 - [GitHub](https://github.com/MauiGtk) (here)
 - [Matrix](https://matrix.to/#/#maui-linux:matrix.org) (WebChat)
-- [Official MauiGtk Website](https://mauigtk.net) (under construction!)
-- [alternative Wordpress Website](https://maui-linux.net/) by [@Ten](https://github.com/TenEniunlsl) (Wiki, Blog)
+- Website
+  - [Official MauiGtk Website](https://mauigtk.net) (Promotion, Blog)
+  - [Alternative Wordpress Website](https://maui-linux.net/) by [@Ten](https://github.com/TenEniunlsl) (Wiki, Blog)
+- Mastodon
+  - [@mauigtk@fosstodon.org](https://fosstodon.org/@mauigtk) (Main)
+  - [@mauilinuxnet@mastodon.social](https://mastodon.social/@mauilinuxnet)
 
 ### What's Brewing Currently
 
