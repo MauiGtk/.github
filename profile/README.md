@@ -35,6 +35,7 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 
 ### What's Brewing Currently
 
+* 24.11.: Website was launched on https://mauigtk.net -- now have some patience until it gets some content!
 * 22.11.: Working on setting up a static website.
 * 20.11.: Follow our Mastodon account on https://fosstodon.org/@mauigtk to stay informed about our progress!
 * 19.11.: We had our 2nd video call on 19th of November where we focused on a first public funding attempt. Will meet again in January.
