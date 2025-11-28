@@ -39,6 +39,7 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 
 ### What's Brewing Currently
 
+* 28.11.: We officially have sent a project proposal to PrototypeFund to get funding. \o/ Thanks to Mathias for reviewing the application text!
 * 24.11.: Website was launched on https://mauigtk.net -- now have some patience until it gets some content!
 * 22.11.: Working on setting up a static website.
 * 20.11.: Follow our Mastodon account on https://fosstodon.org/@mauigtk to stay informed about our progress!
