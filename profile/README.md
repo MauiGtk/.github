@@ -40,9 +40,9 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 
 ### What's Brewing Currently
 
-* 05.01.2026: Added some context to the links on this overview page.
-* 28.11.2025: We officially have sent a project proposal to PrototypeFund to get funding. \o/ Thanks to Mathias for reviewing the application text!
-* 24.11.2025: Website was launched on https://mauigtk.net -- now have some patience until it gets some content!
-* 22.11.2025: Working on setting up a static website.
-* 20.11.2025: Follow our Mastodon account on https://fosstodon.org/@mauigtk to stay informed about our progress!
-* 19.11.2025: We had our 2nd video call on 19th of November where we focused on a first public funding attempt. Will meet again in January.
+* 2026-01-05: Added some context to the links on this overview page.
+* 2025-11-28: We officially have sent a project proposal to PrototypeFund to get funding. \o/ Thanks to Mathias for reviewing the application text!
+* 2025-11-24: Website was launched on https://mauigtk.net -- now have some patience until it gets some content!
+* 2025-11-22: Working on setting up a static website.
+* 2025-11-20: Follow our Mastodon account on https://fosstodon.org/@mauigtk to stay informed about our progress!
+* 2025-11-19: We had our 2nd video call on 19th of November where we focused on a first public funding attempt. Will meet again in January.
