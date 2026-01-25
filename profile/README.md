@@ -40,6 +40,7 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 
 ### What's Brewing Currently
 
+* 2026-01-25: New [blog post](https://mauigtk.net/blog/20260125/) "Why We Need the Gtk Platform for MAUI -- A short wrap-up of our goal and motivation along with a historical overview of events that lead to MauiGtk"
 * 2026-01-05: Added some context to the links on this overview page.
 * 2025-11-28: We officially have sent a project proposal to PrototypeFund to get funding. \o/ Thanks to Mathias for reviewing the application text!
 * 2025-11-24: Website was launched on https://mauigtk.net -- now have some patience until it gets some content!
