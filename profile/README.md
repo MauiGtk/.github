@@ -43,7 +43,7 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 
 * 2026-02-28: Interesting development by Jonathan Dick, member of the MS MAUI team, heavily aided by CoPilot https://github.com/Redth/Maui.Gtk
 * 2026-02-16: Sadly, our application for funding by the Prototypefund has been rejected.
-* 2026-02-25: Thomas tried https://github.com/gnomeMaui/gnomemaui/ -- an approach by @czirok using gir.core with skia-based self-drawn controls, featuring a working MAUI Blazor sample
+* 2026-02-25: Thomas tried https://github.com/gnomeMaui/gnomemaui/ -- an approach by [@czirok](https://github.com/czirok) using gir.core with skia-based self-drawn controls, featuring a working MAUI Blazor sample
 * 2026-01-25: New [blog post](https://mauigtk.net/blog/20260125/) "Why We Need the Gtk Platform for MAUI -- A short wrap-up of our goal and motivation along with a historical overview of events that lead to MauiGtk"
 * 2026-01-05: Added some context to the links on this overview page.
 * 2025-11-28: We officially have sent a project proposal to PrototypeFund to get funding. \o/ Thanks to Mathias for reviewing the application text!
