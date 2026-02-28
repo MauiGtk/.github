@@ -24,8 +24,9 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 - [CI/CD](https://github.com/lytico/maui/blob/6ef7f0c066808ea0d4142812ef4d956245e6a711/.github/workflows/build-gtk.yml#L22-L31) -- Lytico's MAUI CI for gtk workload installation.
 - [GtkSharp Quick Reference](https://ksvi.mff.cuni.cz/~dingle/2021-2/prog_2/gtk_reference.html) -- useful link to know the Gtk API while implementing new controls
 - [gir.core](https://github.com/gircore/gir.core) -- A code generator that produces C# stubs for GObjects (as in Gtk oder GStreamer, for example). This could replace GtkSharp to allow support of Gtk4.
-- [GnomeMaui](https://github.com/GnomeMaui) -- Ferenc Czirok's repo shows how to implement a Gtk4 backend for MAUI based on gir.core. Cheers! Definitely worth giving it a star.
+- [GnomeMaui](https://github.com/GnomeMaui) -- Ferenc Czirok's repo shows how to implement a Gtk4 backend for MAUI based on gir.core with skia-based self-drawn controls, featuring a working MAUI Blazor sample. Cheers! Definitely worth giving the repo a star.
 - [Xamarin.Forms Progress](https://github.com/jsuarezruiz/forms-gtk-progress/issues) -- This is the backend predecessor of maui-linux based on Xamarin.Forms and Gtk2.
+- [Maui.Gtk](https://github.com/Redth/Maui.Gtk) -- a rapid prototyping(?) aproach by Jonathan Dick and his LLM army in implementing Gtk4 and gir.core
 
 ### Community 🧑‍🤝‍🧑
 
@@ -40,6 +41,9 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 
 ### What's Brewing Currently
 
+* 2026-02-28: Interesting development by Jonathan Dick, member of the MS MAUI team, heavily aided by CoPilot https://github.com/Redth/Maui.Gtk
+* 2026-02-16: Sadly, our application for funding by the Prototypefund has been rejected.
+* 2026-02-25: Thomas tried https://github.com/gnomeMaui/gnomemaui/ -- an approach by @czirok using gir.core with skia-based self-drawn controls, featuring a working MAUI Blazor sample
 * 2026-01-25: New [blog post](https://mauigtk.net/blog/20260125/) "Why We Need the Gtk Platform for MAUI -- A short wrap-up of our goal and motivation along with a historical overview of events that lead to MauiGtk"
 * 2026-01-05: Added some context to the links on this overview page.
 * 2025-11-28: We officially have sent a project proposal to PrototypeFund to get funding. \o/ Thanks to Mathias for reviewing the application text!
