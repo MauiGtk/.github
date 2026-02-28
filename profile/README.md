@@ -26,7 +26,7 @@ It all started with **Mono Touch** that emerged as part of the open source alter
 - [gir.core](https://github.com/gircore/gir.core) -- A code generator that produces C# stubs for GObjects (as in Gtk oder GStreamer, for example). This could replace GtkSharp to allow support of Gtk4.
 - [GnomeMaui](https://github.com/GnomeMaui) -- Ferenc Czirok's repo shows how to implement a Gtk4 backend for MAUI based on gir.core with skia-based self-drawn controls, featuring a working MAUI Blazor sample. Cheers! Definitely worth giving the repo a star.
 - [Xamarin.Forms Progress](https://github.com/jsuarezruiz/forms-gtk-progress/issues) -- This is the backend predecessor of maui-linux based on Xamarin.Forms and Gtk2.
-- [Maui.Gtk](https://github.com/Redth/Maui.Gtk) -- a rapid prototyping(?) aproach by Jonathan Dick and his LLM army in implementing Gtk4 and gir.core
+- [Maui.Gtk](https://github.com/Redth/Maui.Gtk) -- a rapid prototyping(?) aproach by Jonathan Dick and his LLM army to implement Gtk4 and gir.core
 
 ### Community 🧑‍🤝‍🧑
 
